@@ -24,7 +24,7 @@ export const AppProvider = ({ children }) => {
     setIsModalOpen(false);
   };
   const openModal = () => {
-    console.log("open modal");
+    console.log("open sidebar");
     setIsModalOpen(true);
   };
   return (
