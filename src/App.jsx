@@ -1,6 +1,6 @@
-import Home from "./Home";
-import Sidebar from "./Sidebar";
-import Modal from "./Modal";
+import Modal from "./components/Modal";
+import Home from "./components/Home";
+import Sidebar from "./components/Sidebar";
 const App = () => {
   return (
     <>
